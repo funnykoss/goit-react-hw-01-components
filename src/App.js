@@ -13,25 +13,17 @@ import TransactionHistory from './transaction-history/TransactionHistory';
 function App() {
   return (
     <div>
-      <div key={user.id}>
-        <Profile
-          name={user.name}
-          tag={user.tag}
-          location={user.location}
-          avatar={user.avatar}
-          stats={user.stats}
-        />
-      </div>
-      <div>
-        <FriendsList friends={friends} />
-      </div>
-      <div>
-        <Statistics title="Upload stats" stats={statisticalData} />;
-      </div>
-
-      <div>
-        <TransactionHistory items={transactions} />
-      </div>
+      <Profile
+        key={user.id}
+        name={user.name}
+        tag={user.tag}
+        location={user.location}
+        avatar={user.avatar}
+        stats={user.stats}
+      />
+      <FriendsList friends={friends} />
+      <Statistics title="Upload stats" stats={statisticalData} />
+      <TransactionHistory items={transactions} />
     </div>
   );
 }
