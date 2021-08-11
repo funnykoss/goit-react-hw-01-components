@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://funnykoss.github.io/goit-react-hw-01-components",
+  "homepage": "https://github.com/funnykoss/goit-react-hw-01-components.git",
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^4.1.4",
     "@testing-library/jest-dom": "^5.14.1",
