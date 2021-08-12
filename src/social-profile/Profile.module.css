@@ -17,7 +17,7 @@ p {
 .profile {
   margin-bottom: 60px;
   width: 350px;
-  border-color: gray;
+  border-color: rgb(128, 128, 128);
   border-style: solid;
   border-radius: 5px;
   text-align: center;
@@ -51,8 +51,8 @@ p {
   padding-top: 25px;
   padding-bottom: 25px;
   width: 115px;
-  background-color: lightgray;
-  border-color: lightslategray;
+  background-color: rgb(211, 211, 211);
+  border-color: rgb(119, 136, 153);
   border-style: solid;
   border-width: 0.5px;
 }
@@ -60,7 +60,7 @@ p {
 .name {
   font-size: 25px;
   font-weight: bold;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .label {

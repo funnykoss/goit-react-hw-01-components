@@ -2,7 +2,7 @@
   width: 700px;
   border: 1px;
   border-radius: 5px;
-  border-color: lightgrey;
+  border-color: rgb(211, 211, 211);
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
@@ -10,7 +10,7 @@
 .header {
   text-transform: uppercase;
   background-color: #00bcd5;
-  color: white;
+  color: #ffffff;
 }
 
 .item {
