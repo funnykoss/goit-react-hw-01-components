@@ -1,4 +1,4 @@
-import s from '../social-profile/Profile.module.css';
+import s from './Profile.module.css';
 import PropTypes from 'prop-types';
 
 export default function Profiler({ name, tag, location, avatar, stats }) {

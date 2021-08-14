@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import Stat from '../components/Stat';
+import Stat from './Stat';
 
 import s from '../statistics/Statistics.module.css';
 

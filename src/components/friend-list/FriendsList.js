@@ -1,4 +1,4 @@
-import Friends from '../components/Friends';
+import Friends from './Friends';
 import PropTypes from 'prop-types';
 
 export default function FriendsList({ friends }) {
