@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-01-components",
+  "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://funnykoss.github.io/goit-react-hw-01-components/",
+  "homepage": "https://funnykoss.github.io/goit-react-hw-02-feedback/",
   "dependencies": {
     "@jamesives/github-pages-deploy-action": "^4.1.4",
     "@testing-library/jest-dom": "^5.14.1",
